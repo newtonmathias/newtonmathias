@@ -15,7 +15,7 @@
 
 💡 Always learning, coding, and building cool stuff. Open to collaboration and new opportunities!
 
-🔥 My passion: Crafting seamless web experiences with cutting-edge technology.
+🔥 My passion: Crafting seamless web experiences.
 
 📚 Currently diving deeper into web security.
 
