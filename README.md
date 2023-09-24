@@ -1,12 +1,12 @@
 👋 Hi there, I'm [Newton Maithya](https://newtonmathias.com/)
-<a href="https://twitter.com/n3wton__">
+<a href="https://twitter.com/newto97>
   <img align="left" alt="n3wton__ | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />
 </a>
-<a href="https://www.linkedin.com/in/abelmasila">
+<a href="https://www.linkedin.com/in/newton-mathias/">
   <img align="left" alt="Newton's LinkedIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
 <a href="https://www.upwork.com/freelancers/newtonm3">
-  <img align="left" alt="Newton's upwork" width="22px" src="https://cdn.iconfinder.com/stored_data/1253818/128/png?token=1694441108-bZ3Ursjv2Iqagn7xgIk0zbfYGHid44xTK%2FoRwhOWboU%3D" />
+  <img align="left" alt="Newton's upwork" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/free-upwork-3629131-3030271.png?f=avif&w=256" />
 </a>
 <br />
 <br />
