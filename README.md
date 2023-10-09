@@ -4,6 +4,7 @@
 </a>
 <br />
 👋 Hi there, I'm [Newton Maithya](https://newtonmathias.com/)
+<br />
 
 🚀 Full-stack Developer | JavaScript  | ReactJS, NextJS, NodeJS.🧙‍♂️
 
